@@ -1,6 +1,15 @@
 {
-  "version": "1.31",
-  "url": "https://github.com/modytoo7/warehouse_update/releases/latest/download/warehouse_app.exe",
-  "sha256": "5cb08bfaf7238c8fbe3145487335a9ff60a909fdd9307dfe1e0ca30ce863b69c",
-  "release_notes": "إصدار جديد من تطبيق إدارة المخازن"
+  "version": "1.32",
+  "url": "https://github.com/modytoo7/warehouse_update/raw/main/warehouse_app.exe",
+  "sha256": "f1c3ad81b823f84c036ea9ca48d68f1a488b0b46c534d0b4e08f30e6c01cb87f",
+  "release_notes": {
+    "ar": [
+      "1-تحديثات في شاشة الاذون.",
+      "تعديلات في طريقة كتابة  ارقام الاذون."
+    ],
+    "en": [
+      "Briefly describe each new feature.",
+      "List fixes and improvements that matter to users."
+    ]
+  }
 }
