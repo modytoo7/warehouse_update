@@ -1,11 +1,13 @@
 {
-  "version": "1.33",
+  "version": "1.34",
   "url": "https://github.com/modytoo7/warehouse_update/releases/latest/download/warehouse_app.exe",
-  "sha256": "2316e7ce2488ef762fcfcd92c00d5a658ecebee12ce0118c0761098764e48998",
+  "sha256": "6b8627a9e7066ac2ff2a3e29d0e939d5b136bd16cc6702fae77d11b8fe6ddbe1",
   "release_notes": {
     "ar": [
-      "1-تحديثات في شاشة الاذون.",
-      "تعديلات في طريقة كتابة  ارقام الاذون."
+      "1-شاشة استعادة البيانات المحذوفة
+      2- تعديلات في طريقة حذف البيانات في شاشة التكويد 
+      3- تعديلات في احذف بالاضافة .",
+      "تعديل باضافة شاشة استعادة البيانات المحذوفة."
     ],
     "en": [
       "Briefly describe each new feature.",
@@ -13,3 +15,4 @@
     ]
   }
 }
+
