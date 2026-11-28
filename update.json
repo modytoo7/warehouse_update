@@ -1,10 +1,10 @@
 {
-  "version": "1.36",
+  "version": "1.37",
   "url": "https://github.com/modytoo7/warehouse_update/releases/latest/download/warehouse_app.exe",
-  "sha256": "091b500e83b207eefc14099d92d125f685805588639daeb6ee6e0c18cd4bb177",
+  "sha256": "35e2983b5ad67b56c29b08e7d31e35e3bd6e53698189cbb3aba80eaeb7cd1ff8",
   "release_notes": {
     "ar": [
-      " تعديلات في الاكواد المررة في شاشة التكويد . تعديلات في شاشة تقرير المستخدم .",
+      " تعديلات في اعدادت شاشة التكويد  . تعديلات في الدخول وازرار الكيبورد  .",
       "بعض التعديلات الهامة."
     ],
     "en": [
